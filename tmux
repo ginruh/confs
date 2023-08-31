@@ -1,1 +1,0 @@
-/home/gintamashi/.config/tmux

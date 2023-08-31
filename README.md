@@ -1,6 +1,6 @@
 # ginruh/confs
 
-# Intro
+## Intro
 
 This repo includes confs for some of the programs I use daily.
 - ``neovim``
